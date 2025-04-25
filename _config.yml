@@ -1,0 +1,13 @@
+remote_theme: jekyll/minima
+title: Tr3 Gamers ry
+description: Tr3 Gamers - The gaming & streaming club of Tampere Universities
+minima:
+  skin: dark
+  social_links:
+    - { platform: discord, user_url: "https://discord.gg/dHgkbBa" }
+    - { platform: telegram, user_url: "https://t.me/tr3gamers" }
+    - { platform: twitch, user_url: "https://www.twitch.tv/tr3gamers" }
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCJtR2j5voL1flB1A-fkncgQ" }
+    - { platform: instagram, user_url: "https://www.instagram.com/tr3gamers" }
+    - { platform: twitter,  user_url: "https://twitter.com/Tr3Gamers" }
+    - { platform: facebook,  user_url: "http://fb.me/tr3gamers" }

@@ -1,0 +1,12 @@
+<header class="site-header">
+
+  <div class="wrapper" style="text-align: center;">
+    <div class="center-wrapper">
+        {%- assign default_paths = site.pages | map: "path" -%}
+        {%- assign page_paths = site.header_pages | default: default_paths -%}
+        {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+        <img class="site-header-icon" src="/assets/android-chrome-512x512.png" alt="logo">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
+  </div>
+</header>

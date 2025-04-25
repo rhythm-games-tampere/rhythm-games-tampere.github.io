@@ -1,0 +1,80 @@
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 16 16"
+   xml:space="preserve"
+   sodipodi:docname="twitch.svg"
+   width="16"
+   height="16"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   id="defs946" /><sodipodi:namedview
+   id="namedview944"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="33.197653"
+   inkscape:cx="13.479869"
+   inkscape:cy="11.145366"
+   inkscape:window-width="2560"
+   inkscape:window-height="1371"
+   inkscape:window-x="0"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g941" />
+ <style
+   type="text/css"
+   id="style926">
+	.st1{fill:#9146FF;}
+ </style>
+ <g
+   id="g941"
+   transform="matrix(0.00571429,0,0,0.00571429,1.142852,-6e-6)">
+  
+  <g
+   id="g939"
+   style="fill:#999999">
+   <g
+   id="Layer_1-2"
+   style="fill:#999999">
+    <path
+   class="st1"
+   d="M 500,0 0,500 v 1800 h 600 v 500 l 500,-500 h 400 l 900,-900 V 0 Z m 1700,1300 -400,400 h -400 l -350,350 V 1700 H 600 V 200 h 1600 z"
+   id="path932"
+   style="fill:#999999">
+    </path>
+    <rect
+   x="1700"
+   y="550"
+   class="st1"
+   width="200"
+   height="600"
+   id="rect934"
+   style="fill:#999999">
+    </rect>
+    <rect
+   x="1150"
+   y="550"
+   class="st1"
+   width="200"
+   height="600"
+   id="rect936"
+   style="fill:#999999">
+    </rect>
+   </g>
+  </g>
+ </g>
+</svg>
