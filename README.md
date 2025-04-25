@@ -2,7 +2,7 @@
 
 Tampereen Rytmipelaajat ry is a club. We organize activities.
 
-[**Join us now!**](./README.md) Our membership fee is 5€ per year.
+[**Join us now!**](./README.md) Our membership fee is 10 € per year.
 
 ## Dancing games
 
