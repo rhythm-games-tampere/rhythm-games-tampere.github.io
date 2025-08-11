@@ -9,4 +9,5 @@ Tarry is currently looking for a space to accommodate gaming machines and host a
 ## Dancing games
 Tarry's members currently hold ITG weeklies at [Bar & Cafe LateGame](https://www.lategame.fi/) every tuesday. The dance pads are always available for customers. Come take your first steps today!
 
-See also <https://tr3gamers.fi/> for current activities related to dance games in Tampere.
+![Alt text](https://i.imgur.com/v5eirVW.jpeg)
+See also the university gaming club <https://tr3gamers.fi/> for current activities related to dance and other games in Tampere.
