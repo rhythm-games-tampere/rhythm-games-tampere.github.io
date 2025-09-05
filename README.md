@@ -2,7 +2,7 @@
 
 Tampereen Rytmipelaajat ry ("Tarry") is a Tampere-based association formed to make rhythm games more accessible in the region. We organize activities which revolve around dancing games (ITG/DDR) and other arcade rhythm games.
 
-Tarry is starting a new community-pulled rhythm game arcade as part of [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab), a new cultural center opening in January 2026. We will use the space as a private-type arcade with periodic open doors and other events. To find out more and join the project, join our [Discord](https://discord.gg/DvfRy8ebh9)!
+Tarry is starting a new community-pulled rhythm game arcade as part of [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab), a new cultural center opening in January 2026. We will run the space as a private-type arcade with periodic open doors and other events. To find out more and join the project, join our [Discord](https://discord.gg/DvfRy8ebh9)!
 
 [**Join us now!**](./README.md) Our membership fee is 10 € per year.
 
