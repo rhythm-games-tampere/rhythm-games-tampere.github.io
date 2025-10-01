@@ -2,7 +2,7 @@
 layout: page
 permalink: /yhdistys/
 ---
-Tampereen Rytmipelaajat ry is a Finnish non-profit association. If you're interested in our mission, you can join our official [Discord server](https://discord.com/invite/DvfRy8ebh9) to talk with us! Or come play at our [arcade](https://tarry.fi/arcade) 👀 (open in January)
+Tampereen Rytmipelaajat ry is a Finnish non-profit association. If you're interested in our mission, you can join our official [Discord server](https://discord.com/invite/DvfRy8ebh9) to talk with us! Or come play at our [arcade](https://tarry.fi/arcade) 👀 (opens in January 2026)
 
 As per Finnish association law, to join Tarry, you must accept its rules and pay the yearly membership fee.
 
