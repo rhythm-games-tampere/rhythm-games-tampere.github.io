@@ -2,10 +2,10 @@
 layout: page
 permalink: /yhdistys/
 ---
-#Consider joining our association!
+# Tampereen Rytmipelaajat ry
 
-
-Tampereen Rytmipelaajat ry is a Finnish non-profit association here to make Pirkanmaa a more rhythmical place. If you're interested in our quest, you can join our official [Discord server](https://discord.com/invite/DvfRy8ebh9) to talk with us or come play at our [arcade](https://tarry.fi/arcade)!!! 👀 (opens in January 2026)
+## Consider joining Tarry!
+Tampereen Rytmipelaajat ry is a Finnish non-profit association here to make Tampere a more rhythmical place. If you're interested in our quest, you can join our official [Discord server](https://discord.com/invite/DvfRy8ebh9) to talk with us or come play at our [arcade](https://tarry.fi/arcade)!!! 👀 (opens in January 2026)
 
 
 As per Finnish association law, to join Tarry, you must accept our rules and pay the yearly membership fee.
@@ -28,7 +28,7 @@ The Tarry Board email address is
 hallitus@tarry.fi
 
 
-#Tarry Board of 2025
+## Tarry Board of 2025
 
 
 Chairman
@@ -47,6 +47,6 @@ Treasurer
 Henri Lunnikivi
 hegsa@tarry.fi
 
-Board members
+Board member
 Elias Linjama
 pumpuli@tarry.fi
