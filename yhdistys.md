@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Association
 permalink: /yhdistys/
 ---
 # Tampereen Rytmipelaajat ry
