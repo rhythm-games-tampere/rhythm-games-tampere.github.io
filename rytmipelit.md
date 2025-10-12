@@ -6,7 +6,7 @@ permalink: /rytmipelit/
 Rhythm games are a genre of video game which involve the player making inputs in sync to a song, sometimes simulating playing an instrument. From the first commercial rhythm game Dance Aerobics to the first arcade rhythm game DanceDanceRevolution, there have been many innovations in making gamers groove to crazy beats over the decades. 
 
 
-# #*Arcade games*
+## *Arcade games*
 
 the goats
 
