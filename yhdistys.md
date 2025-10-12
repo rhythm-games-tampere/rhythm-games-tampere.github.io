@@ -27,22 +27,42 @@ Pay with ease at our online store:
 The Tarry Board email address is
 hallitus@tarry.fi
 
+
 Chairman
+
 Veeti Saarinen
+
 kurre@tarry.fi
 
+
+
 Vice Chairman
+
 Janita Ervasti
+
 jvcey@tarry.fi
 
+
+
 Secretary
+
 Norbert Papp
+
 sono@tarry.fi
 
+
+
 Treasurer
+
 Henri Lunnikivi
+
 hegsa@tarry.fi
 
+
+
 Board member
+
 Elias Linjama
+
 pumpuli@tarry.fi
+
