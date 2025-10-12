@@ -3,8 +3,6 @@ layout: page
 title: Association
 permalink: /yhdistys/
 ---
-# Tampereen Rytmipelaajat ry
-
 ## Consider joining Tarry!
 Tampereen Rytmipelaajat ry is a Finnish non-profit association here to make Tampere a more rhythmical place. If you're interested in our quest, you can join our official [Discord server](https://discord.com/invite/DvfRy8ebh9) to talk with us or come play at our [arcade](https://tarry.fi/arcade)!!! 👀 (opens in January 2026)
 
