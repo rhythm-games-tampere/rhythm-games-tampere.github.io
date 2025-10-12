@@ -36,7 +36,7 @@ Norbert Papp<br>
 sono@tarry.fi<br><br>
 Treasurer<br>
 Henri Lunnikivi<br>
-hegsa@tarry.fi<br><br>
+heksa@tarry.fi<br><br>
 Board member<br>
 Elias Linjama<br>
 pumpuli@tarry.fi</p>
