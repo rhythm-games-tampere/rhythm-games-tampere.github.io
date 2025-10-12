@@ -9,59 +9,35 @@ Tampereen Rytmipelaajat ry is a Finnish non-profit association here to make Tamp
 
 As per Finnish association law, to join Tarry, you must accept our rules and pay the yearly membership fee.
 
-Registered rules of the association:
+<p>Registered rules of the association:<br>
+http://tarry.fi/rules.pdf</p>
 
-[http://tarry.fi/rules.pdf](http://tarry.fi/rules.pdf)
-
-Membership fee 2025: 10€
-Pay with ease at our online store:
-
-[https://holvi.com/shop/tarry-store/](https://holvi.com/shop/tarry-store/)
+<p>Membership fee 2025: 10€<br>
+Pay with ease at our online store:<br>
+https://holvi.com/shop/tarry-store</p>
 
 ![](hienokuva.jpg)
 
 
 
-## Tarry Board of 2025
-The Tarry Board email address is
-hallitus@tarry.fi
+## Tarry Board
+<p>The Tarry Board email address is<br>
+hallitus@tarry.fi</p>
 
-
-Chairman
-
-Veeti Saarinen
-
-kurre@tarry.fi
-
-
-
-Vice Chairman
-
-Janita Ervasti
-
-jvcey@tarry.fi
-
-
-
-Secretary
-
-Norbert Papp
-
-sono@tarry.fi
-
-
-
-Treasurer
-
-Henri Lunnikivi
-
-hegsa@tarry.fi
-
-
-
-Board member
-
-Elias Linjama
-
-pumpuli@tarry.fi
+<p>Tarry Board of 2025<br><br>
+Chairman<br>
+Veeti Saarinen<br>
+kurre@tarry.fi<br><br>
+Vice Chairman<br>
+Janita Ervasti<br>
+jvcey@tarry.fi<br><br>
+Secretary<br>
+Norbert Papp<br>
+sono@tarry.fi<br><br>
+Treasurer<br>
+Henri Lunnikivi<br>
+hegsa@tarry.fi<br><br>
+Board member<br>
+Elias Linjama<br>
+pumpuli@tarry.fi</p>
 
