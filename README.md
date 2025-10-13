@@ -4,7 +4,7 @@ Tampereen Rytmipelaajat ry ("Tarry") is a non-profit association formed to make 
 
 Tarry is starting a rhythm game arcade as part of [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab), a new cultural center opening in January 2026. We will run the space as a private-type arcade with periodic open doors and other events. To find out more and join the project, join our [Discord](https://discord.gg/DvfRy8ebh9)!
 
-[**Join us now!**](www.tarry.fi/yhdistys) Our membership fee is 10 € per year.
+[**Join us now!**](https://tarry.fi/yhdistys) Our membership fee is 10 € per year.
 
 ## Dancing games
 Tarry hosts weekly ITG sessions at [Bar & Cafe LateGame](https://www.lategame.fi/) every tuesday. Come take your first steps with us!
