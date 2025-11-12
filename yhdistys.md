@@ -22,7 +22,7 @@ Pay with ease at our online store:<br></p>https://holvi.com/shop/tarry-store
 <p>The Tarry Board email address is<br>
 hallitus@tarry.fi</p>
 
-### <p>Tarry Board of 2025
+### Tarry Board of 2025
 Chairman<br>
 Veeti Saarinen<br>
 kurre@tarry.fi<br><br>
@@ -37,5 +37,5 @@ Henri Lunnikivi<br>
 heksa@tarry.fi<br><br>
 Board member<br>
 Elias Linjama<br>
-pumpuli@tarry.fi</p>
+pumpuli@tarry.fi
 
