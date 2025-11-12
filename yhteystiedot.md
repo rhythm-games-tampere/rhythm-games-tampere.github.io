@@ -11,6 +11,6 @@ We totally should also link our socials here! IF WE HAD SOME
 
 ## Rytmiepelit
 
-Want to borrow rhythm game machines for a con or event? Send our con team an email!
+Want to borrow rhythm game machines for a con or event? Send Rytmiepelit an email!
 rytmiepelit@tarry.fi
 
