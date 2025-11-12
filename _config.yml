@@ -1,6 +1,8 @@
 remote_theme: jekyll/minima
 title: Tarry
 description: Tampereen rytmipelaajat ry
+url: "https://tarry.fi"
+baseurl: ""
 minima:
   skin: dark
 nav:
