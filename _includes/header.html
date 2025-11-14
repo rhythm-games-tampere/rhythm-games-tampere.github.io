@@ -1,19 +1,56 @@
-<header class="site-header">
-
+<header class="site-header" role="banner">
   <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
-    {%- assign page_titles = site.pages | map: 'title' | compact %}
-    
-    {%- unless page_titles == empty %}
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon"></span>
-        </label>
 
-        {% include nav-items.html paths = page_paths %}
-      </nav>
-    {%- endunless %}
+    <!-- BIG homepage link -->
+    <a class="site-title custom-home-link" rel="author" href="{{ "/" | relative_url }}">
+      {{ site.title | escape }}
+    </a>
+
+    <!-- Normal navigation menu without hamburger -->
+    <nav class="site-nav">
+      {% assign nav_pages = site.pages | where_exp:"page", "page.nav_exclude != true and page.title" %}
+      {% for my_page in nav_pages %}
+        {% if my_page.url != "/" %}
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+
   </div>
 </header>
+
+<style>
+/* Make homepage link bigger */
+.custom-home-link {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-right: 3rem;
+  text-decoration: none;
+  color: inherit;
+  vertical-align: middle;
+}
+
+/* Align nav links horizontally on the right */
+.site-nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.site-nav .page-link {
+  margin-right: 1.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  color: inherit;
+}
+
+.site-nav .page-link:last-child {
+  margin-right: 0;
+}
+
+/* Layout: keep header items on one line */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+</style>
