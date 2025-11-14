@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Rhythm Games?
 permalink: /rytmipelit/
 ---
 # Rhythm Games
