@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+theme: jekyll/minima
 title: Tarry
 description: Tampereen rytmipelaajat ry
 url: "https://tarry.fi"
