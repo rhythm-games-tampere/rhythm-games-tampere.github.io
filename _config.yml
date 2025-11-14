@@ -5,12 +5,3 @@ url: "https://tarry.fi"
 baseurl: ""
 minima:
   skin: dark
-nav:
-  - title: Home
-    url: /
-  - title: Rhythm Games
-    url: /rytmipelit/
-  - title: Association
-    url: /yhdistys/
-  - title: Contact
-    url: /yhteystiedot/
