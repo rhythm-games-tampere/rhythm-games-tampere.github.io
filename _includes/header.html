@@ -6,7 +6,7 @@
       {{ site.title | escape }}
     </a>
 
-    <!-- Normal navigation menu without hamburger -->
+    <!-- Normal navigation menu -->
     <nav class="site-nav">
       {% assign nav_pages = site.pages | where_exp:"page", "page.nav_exclude != true and page.title" %}
       {% for my_page in nav_pages %}
@@ -20,7 +20,7 @@
 </header>
 
 <style>
-/* Make homepage link bigger */
+/* Big homepage link */
 .custom-home-link {
   font-size: 1.8rem;
   font-weight: 700;
@@ -30,7 +30,7 @@
   vertical-align: middle;
 }
 
-/* Align nav links horizontally on the right */
+/* Navigation links on the right, horizontal */
 .site-nav {
   display: inline-block;
   vertical-align: middle;
@@ -47,7 +47,7 @@
   margin-right: 0;
 }
 
-/* Layout: keep header items on one line */
+/* Header layout: align homepage left, nav right */
 .site-header .wrapper {
   display: flex;
   align-items: center;
