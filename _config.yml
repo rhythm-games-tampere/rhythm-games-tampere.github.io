@@ -1,6 +1,6 @@
-theme: jekyll/minima
+theme: minima
 title: Tarry
-description: Tampereen rytmipelaajat ry
+description: Tampereen Rytmipelaajat ry
 url: "https://tarry.fi"
 baseurl: ""
 minima:
