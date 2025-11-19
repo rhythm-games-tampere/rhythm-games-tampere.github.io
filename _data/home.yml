@@ -2,7 +2,7 @@ navbar_entries:
   - title: Home
     url: "/"
   - title: Association
-      url: "/yhdistys/"
+    url: "/yhdistys/"
   - title: Contact
     url: "/yhteystiedot/"
   - title: Rhythm games?
