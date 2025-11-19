@@ -2,11 +2,11 @@ navbar_entries:
   - title: Home
     url: "/"
   - title: Association
-    url: "/yhdistys"
+    url: "/yhdistys/"
   - title: Contact
-    url: "/yhteystiedot"
+    url: "/yhteystiedot/"
   - title: Rhythm games?
-    url: "/rytmipelit"
+    url: "/rytmipelit/"
 
 footer_entries:
   - title: GitHub
