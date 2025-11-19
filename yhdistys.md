@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Association
+title: "Association"
 permalink: /yhdistys/
 ---
 ## Consider joining Tarry!
