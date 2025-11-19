@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Tampereen Rytmipelaajat ry
 
 Tampereen Rytmipelaajat ry ("Tarry") is a non-profit association formed to make rhythm games more accessible in the city of Tampere. To that end we rent spaces and acquire rhythm game machines for our community and organize activities which revolve around [dancing games](https://en.wikipedia.org/wiki/Comparison_of_dance_pad_video_games) (think In The Groove/DanceDanceRevolution) and other arcade rhythm games.
