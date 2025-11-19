@@ -18,6 +18,11 @@ rytmiepelit@tarry.fi
 
 There are various rhythm game communities in Finland, online and offline. Here's some helpful links to find your nearest colony.
 
+### Sugoi
+Finland's only commercial game center with a wide selection of real rhythm game and other video game cabs. Located in Malmi, Helsinki, Sugoi is a great place to get a taste of the real arcade experience.
+
+https://www.sugoi.fi/
+
 ### Suomen tanssipelaajat ry
 The Finnish dance game association. Mostly active in the Helsinki region, they have a top quality dance game arcade, host Finnish championships and admin the largest Finnish dance game focused Discord server.
 
