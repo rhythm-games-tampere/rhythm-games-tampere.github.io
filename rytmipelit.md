@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rhythm Games?
+title: "Rhythm Games?"
 permalink: /rytmipelit/
 ---
 # Rhythm Games
