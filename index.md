@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Tarry
 ---
 # Tampereen Rytmipelaajat ry
 
