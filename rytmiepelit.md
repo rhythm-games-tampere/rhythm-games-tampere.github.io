@@ -8,5 +8,4 @@ Rytmiepelit is a volunteer task force bringing rhythm games to Finnish conventio
 
 You can reach Rytmiepelit at rytmiepelit@tarry.fi
 
-![](https://conikuvat.fi/media/previews/tracon-2025/yleiskuvat/yleiskuvat-kelmiphotography/tracon-2025-yleiskuvat-perjantai-02.preview.avif)
-![](https://conikuvat.fi/media/previews/tracon-2025/yleiskuvat/yleiskuvat-kelmiphotography/tracon-2025-yleiskuvat-perjantai-03.preview.avif)
+
