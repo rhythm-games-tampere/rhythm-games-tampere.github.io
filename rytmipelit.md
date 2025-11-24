@@ -11,7 +11,7 @@ Rhythm games are a genre of video game which involve the player making inputs in
 
 
 ## Arcade games
-![image]https://conikuvat.fi/media/previews/desucon-2025/yleiskuvat/minapamina/dsc06255.preview.avif
+![image](https://conikuvat.fi/media/previews/desucon-2025/yleiskuvat/minapamina/dsc06255.preview.avif)
 Image: [minapamina](https://www.minapamina.fi/)
 
 [DanceDanceRevolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) has long been the centerpiece and a staple machine at any commercial arcade or game center. The machine's sleek paired with a spectacularly loud play interface will catch the attention of anyone within a twenty feet radius even in the busiest environments. Localized and known as Dancing Stage in Europe, the Benami classic surged rhythm gaming to mainstream popularity, with series such as Andamiro's [Pump it Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) and Roxor Games' [In the Groove](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)) taking off in its trail.
