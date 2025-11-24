@@ -4,6 +4,9 @@ title: "Rhythm Games?"
 permalink: /rytmipelit/
 ---
 # Rhythm Games
+![image](https://conikuvat.fi/desucon-2025/yleiskuvat/minapamina/dsc08505-3)
+Image: [minapamina](https://www.minapamina.fi/)
+
 Rhythm games are a genre of video game which involve the player making inputs in sync to a song, sometimes simulating the playing of a real instrument. From the first commercial rhythm game [Dance Aerobics](https://en.wikipedia.org/wiki/Dance_Aerobics) to the first arcade rhythm game DanceDanceRevolution, there have been many innovations in making gamers groove to crazy beats over the decades. The following listing aims to give a general view on what kind of rhythm games exist and is by no means comprehensive. There's a lot of these games.
 
 
