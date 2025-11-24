@@ -4,16 +4,22 @@ title: "Rhythm Games?"
 permalink: /rytmipelit/
 ---
 # Rhythm Games
-![image](https://conikuvat.fi/desucon-2025/yleiskuvat/minapamina/dsc08505-3)
+![image](https://conikuvat.fi/media/previews/desucon-2025/yleiskuvat/minapamina/dsc08505-3.preview.avif)
 Image: [minapamina](https://www.minapamina.fi/)
 
 Rhythm games are a genre of video game which involve the player making inputs in sync to a song, sometimes simulating the playing of a real instrument. From the first commercial rhythm game [Dance Aerobics](https://en.wikipedia.org/wiki/Dance_Aerobics) to the first arcade rhythm game DanceDanceRevolution, there have been many innovations in making gamers groove to crazy beats over the decades. The following listing aims to give a general view on what kind of rhythm games exist and is by no means comprehensive. There's a lot of these games.
 
 
 ## Arcade games
+![image]https://conikuvat.fi/media/previews/desucon-2025/yleiskuvat/minapamina/dsc06255.preview.avif
+Image: [minapamina](https://www.minapamina.fi/)
+
 [DanceDanceRevolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) has long been the centerpiece and a staple machine at any commercial arcade or game center. The machine's sleek paired with a spectacularly loud play interface will catch the attention of anyone within a twenty feet radius even in the busiest environments. Localized and known as Dancing Stage in Europe, the Benami classic surged rhythm gaming to mainstream popularity, with series such as Andamiro's [Pump it Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) and Roxor Games' [In the Groove](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)) taking off in its trail.
 
 For gamers really into sick beats but not that much into exercise, Bemani, the company behind DDR, has game series such as [Beatmania IIDX](https://p.eagate.573.jp/game/2dx/), the totally DJ-like DJ simulator, [Sound Voltex](https://p.eagate.573.jp/game/sdvx/vi/index.html) and [Pop 'n Music](https://p.eagate.573.jp/game/popn/) all with unique input devices to enable feeling the rhythm in your soul in many different ways. Sega, the Sonic the Hedgehog company, also has multiple lines of rhythm games, most notably [Maimai, the washing machine](https://maimai.sega.com/), [Chunithm, the spellcaster's keyboard](https://chunithm.sega.com/) and [Project SEKAI, the vocaloid game that is not Project Diva](https://colorfulstage.com/).
+
+![image](https://conikuvat.fi/media/previews/desucon-2024/yleiskuvat/minapamina/dsc00975.preview.avif)
+Image: [minapamina](https://www.minapamina.fi/)
 
 ## Playing at home
 In the late 90s to early 2000s, many rhythm game nerds weren't satisfied with only playing at arcades, sprouting new and exciting ways to enjoy rhythmic smacking of keys in the comfort of your home through arcade game clone software such as the open-source [StepMania](https://www.stepmania.com/) engine or [Be-Music Source](https://bms.neocities.org/) ("BMS") players, both with incredibly dated and unintuitive onboarding for new players. Twenty some years later, legend says these strange, beat-crazed communities still thrive in their own small corners of the internet.
