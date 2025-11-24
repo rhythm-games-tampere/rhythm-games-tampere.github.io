@@ -6,3 +6,5 @@ description: Tampereen Rytmipelaajat ry
 url: "https://tarry.fi"
 baseurl: ""
 data_dir: _data
+minima:
+  skin: dark
