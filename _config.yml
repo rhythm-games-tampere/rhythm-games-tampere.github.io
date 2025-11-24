@@ -1,4 +1,4 @@
-remote_theme: "abhinavs/moonwalk"
+remote_theme: "minima"
 plugins:
   - jekyll-remote-theme
 title: Tarry
