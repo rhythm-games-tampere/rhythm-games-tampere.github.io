@@ -11,7 +11,7 @@ As per Finnish association law, to join Tarry, you must accept our rules and pay
 
 [Registered rules of the association](http://tarry.fi/rules.pdf)
 
-Membership fee 2025: 10€
+Membership fee 2025: 10€<br>
 Pay with ease at our [online store](https://holvi.com/shop/tarry-store)
 
 ![](hienokuva.jpg)
