@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Arcade"
+title: Arcade
 permalink: /arcade/
 ---
 Tarry will have an arcade in [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab) in January 2026. The space will feature rhythm game classics such as [ITGmania](https://www.itgmania.com/).
