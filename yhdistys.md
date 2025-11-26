@@ -18,22 +18,22 @@ Pay with ease at our [online store](https://holvi.com/shop/tarry-store)
 
 ## Tarry Board
 <p>The Tarry Board email address is<br>
-hallitus@tarry.fi</p>
+hallitus (at) tarry.fi</p>
 
 ### Tarry Board of 2025
 Chairman<br>
 Veeti Saarinen<br>
-kurre@tarry.fi<br><br>
+kurre (at) tarry.fi<br><br>
 Vice Chairman<br>
 Janita Ervasti<br>
-jvcey@tarry.fi<br><br>
+jvcey (at) tarry.fi<br><br>
 Secretary<br>
 Norbert Papp<br>
-sono@tarry.fi<br><br>
+sono (at) tarry.fi<br><br>
 Treasurer<br>
 Henri Lunnikivi<br>
-heksa@tarry.fi<br><br>
+heksa (at) tarry.fi<br><br>
 Board member<br>
 Elias Linjama<br>
-pumpuli@tarry.fi
+pumpuli (at) tarry.fi
 
