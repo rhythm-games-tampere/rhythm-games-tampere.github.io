@@ -9,10 +9,10 @@ Tampereen Rytmipelaajat ry is a Finnish non-profit association here to make Tamp
 
 As per Finnish association law, to join Tarry, you must accept our rules and pay the yearly membership fee.
 
-<p>Registered rules of the association:<br></p>http://tarry.fi/rules.pdf
+[Registered rules of the association](http://tarry.fi/rules.pdf)
 
-<p><br>Membership fee 2025: 10€<br>
-Pay with ease at our online store:<br></p>https://holvi.com/shop/tarry-store
+Membership fee 2025: 10€
+Pay with ease at our [online store](https://holvi.com/shop/tarry-store)
 
 ![](hienokuva.jpg)
 
