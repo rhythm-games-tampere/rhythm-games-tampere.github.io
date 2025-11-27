@@ -29,3 +29,10 @@ jekyll serve --host 0.0.0.0 --port 8000 --livereload
 ```
 
 On a successful build, the website should be available at <http://localhost:8000/>
+
+## Recommended tooling
+
+YAML (.yml)
+
+- [yamllint](https://yamllint.readthedocs.io/en/stable/)
+- [VS Code: Linter](https://marketplace.visualstudio.com/items?itemName=fnando.linter)
