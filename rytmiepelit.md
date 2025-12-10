@@ -9,5 +9,5 @@ Rytmiepelit is a volunteer task force bringing rhythm games to Finnish conventio
 You can reach Rytmiepelit at rytmiepelit@tarry.fi
 
 
-!([https://conikuvat.fi/media/previews/desucon-2024/yleiskuvat/jenni-suominen/dsc05202.preview.jpeg])
+![](https://conikuvat.fi/media/previews/desucon-2024/yleiskuvat/jenni-suominen/dsc05202.preview.jpeg)
 Image: Jenni Suominen
