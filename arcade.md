@@ -15,5 +15,8 @@ Tarry's arcade's doors are open for everyone on the last monday each month. You 
 
 ## Arriving at the Arcade
 Nekalab is located at [Lounaantie 2, Tampere](https://maps.app.goo.gl/qeeciJ1UhaFJBR3U8). The building is an old school and the nearest bus stops are Lampipuisto and Kuokkamaantie.
-![image](https://i.imgur.com/qENyJku.jpeg)
 The arcade is located on the bottom floor, so walk through the main entrance and head right. Our door is the second to your right, next to a small set of stairs.
+![image](https://i.imgur.com/qENyJku.jpeg)
+Main entrance
+![image](https://i.imgur.com/lWbdr1S.jpeg)
+Main hallway & our door
