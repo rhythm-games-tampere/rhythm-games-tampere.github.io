@@ -19,4 +19,4 @@ The dance pads are in customer use every day.
 
 Not from Tampere? See our [contacts page](https://tarry.fi/yhteystiedot) for more rhythm game locations all around Finland!
 
-![Alt text](https://i.imgur.com/v5eirVW.jpeg)
+![image](https://i.imgur.com/9xOyOkR.png)
