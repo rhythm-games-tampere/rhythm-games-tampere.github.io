@@ -6,8 +6,7 @@ permalink: /yhteystiedot/
 ## Tarry
 
 Want to try out arcade rhythm games? Visit our [Arcade](https://tarry.fi/arcade/) in Nekala or join our [Discord](https://discord.gg/DvfRy8ebh9)!
-
-We totally should also link our socials here! IF WE HAD SOME
+![image](https://i.imgur.com/GTcLRDP.jpeg)
 
 ## Rytmiepelit
 
