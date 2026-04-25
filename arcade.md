@@ -5,8 +5,7 @@ permalink: /arcade/
 ---
 Tarry has an arcade in [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab). The space features rhythm game classics such as [ITGmania](https://www.itgmania.com/) & Beatmania IIDX.
 
-![image](https://i.imgur.com/UMmrWyn.jpeg)
-Getting setup
+![image](https://i.imgur.com/GXtVbSE.jpeg)
 
 If you're interested in becoming a tenant, contact the board at hallitus@tarry.fi or get in touch with us through our [Discord](https://discord.gg/DvfRy8ebh9)!
 
