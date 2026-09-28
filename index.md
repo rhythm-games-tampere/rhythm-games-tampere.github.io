@@ -10,7 +10,7 @@ Tampereen Rytmipelaajat ry ("Tarry") is a non-profit association formed to make 
 
 ## Tarry Arcade
 Tarry has a [rhythm game arcade](https://tarry.fi/arcade) as part of [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab), a cultural center opened in January 2026. We run the space as a private-type arcade with periodic open doors and other events. To find out more and join the project, join our [Discord](https://discord.gg/DvfRy8ebh9)!
-![image](https://i.imgur.com/UMmrWyn.jpeg)
+![image](https://i.imgur.com/a3MFw6q.jpeg)
 
 
 ## Open Dance Games in Tampere
