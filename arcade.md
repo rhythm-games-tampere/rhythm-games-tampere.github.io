@@ -3,7 +3,7 @@ layout: page
 title: "Arcade"
 permalink: /arcade/
 ---
-Tarry has an arcade in [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab). The space features rhythm game classics such as [ITGmania](https://www.itgmania.com/) & Beatmania IIDX.
+Tarry has an arcade in [Nekalab](https://www.tampere.fi/organisaatio/nekalan-kulttuurikeskus-nekalab). The space features rhythm game classics such as [ITGmania](https://www.itgmania.com/), Beatmania IIDX/BMS, [YARG](https://yarg.in/), pop 'n music, Pump It Up and more.
 
 ![image](https://i.imgur.com/GXtVbSE.jpeg)
 
