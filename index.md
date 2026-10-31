@@ -14,7 +14,7 @@ Tarry has a [rhythm game arcade](https://tarry.fi/arcade) as part of [Nekalab](h
 
 
 ## Open Dance Games in Tampere
-Tarry also hosts weekly ITG group sessions at [Bar & Cafe LateGame](https://www.lategame.fi/) every tuesday at 18:00 and monthly competitions on the last tuesday each month. Come take your first steps with us!
+Tarry also hosts weekly ITG group sessions at [Bar & Cafe LateGame](https://www.lategame.fi/) every tuesday at 19:00 and monthly competitions on the last tuesday, at 18:00 each month. Come take your first steps with us!
 The dance pads are in customer use every day.
 
 Not from Tampere? See our [contacts page](https://tarry.fi/yhteystiedot) for more rhythm game locations all around Finland!
