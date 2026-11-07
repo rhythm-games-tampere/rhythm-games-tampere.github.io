@@ -11,7 +11,7 @@ As per Finnish association law, to join Tarry, you must accept our rules and pay
 
 [Registered rules of the association](http://tarry.fi/rules.pdf)
 
-Membership fee 2025: 10€<br>
+Membership fee 2026: 10€<br>
 Pay with ease at our [online store](https://holvi.com/shop/tarry-store)
 
 ![](hienokuva.jpg)
@@ -20,7 +20,7 @@ Pay with ease at our [online store](https://holvi.com/shop/tarry-store)
 <p>The Tarry Board email address is<br>
 hallitus (at) tarry.fi</p>
 
-### Tarry Board of 2025
+### Tarry Board of 2026
 Chairman<br>
 Veeti Saarinen<br>
 kurre (at) tarry.fi<br><br>
@@ -35,5 +35,7 @@ Henri Lunnikivi<br>
 heksa (at) tarry.fi<br><br>
 Board member<br>
 Elias Linjama<br>
-pumpuli (at) tarry.fi
-
+pumpuli (at) tarry.fi<br>
+Vice board member
+Ida Kontto
+foxtail (at) tarry.fi
