@@ -49,6 +49,7 @@ A commercial japanese-style game center in Malmi, Helsinki. Open on weekends, Su
 A private-owned garage maintained by hardcore veterans of the Finnish dance game scene. Featuring three top-of-the-line modded ITGmania setups and a Pump it Up cab, McKylä is the heavenly haven of Finnish dance gaming. To play at McKylä, refer to [their schedule](https://calendar.google.com/calendar/u/0/embed?src=qmml1bksh5ikco2nlfth3eqqic) for open door days ("Avoimet ovet") or get in contact with a tenant through the [Tanssipelaajat Discord server](https://discord.gg/MFX2EUSBc9).
 
 [Full Combo](https://fullcombo.fi/)
+
 Opening winter 2026, Full Combo is a rhythm game focused commercial arcade in Tampere. Featuring custom-built cabs for rhythm games along retro and fighting games, Full Combo runs their machines in free-play and sells day tickets.
 
 [Tarry arcade](https://tarry.fi/arcade)
