@@ -46,8 +46,11 @@ A commercial japanese-style game center in Malmi, Helsinki. Open on weekends, Su
 
 [McKylä](https://mckyla.tanssipelit.fi/)
 
-A private-owned garage maintained by hardcore veterans of the Finnish dance game scene. Featuring three top-of-the-line modded ITGmania setups and a Pump it Up cab, McKylä is the heavenly haven of Finnish dance gaming. To play at McKylä, refer to [the schedule](https://calendar.google.com/calendar/u/0/embed?src=qmml1bksh5ikco2nlfth3eqqic) on their website for open door days ("Avoimet ovet") or get in contact with a tenant through the [Tanssipelaajat Discord server](https://discord.gg/MFX2EUSBc9).
+A private-owned garage maintained by hardcore veterans of the Finnish dance game scene. Featuring three top-of-the-line modded ITGmania setups and a Pump it Up cab, McKylä is the heavenly haven of Finnish dance gaming. To play at McKylä, refer to [their schedule](https://calendar.google.com/calendar/u/0/embed?src=qmml1bksh5ikco2nlfth3eqqic) for open door days ("Avoimet ovet") or get in contact with a tenant through the [Tanssipelaajat Discord server](https://discord.gg/MFX2EUSBc9).
+
+[Full Combo](https://fullcombo.fi/)
+Opening winter 2026, Full Combo is a rhythm game focused commercial arcade in Tampere. Featuring custom-built cabs for rhythm games along retro and fighting games, Full Combo runs their machines in free-play and sells day tickets.
 
 [Tarry arcade](https://tarry.fi/arcade)
 
-Opening January 2026, Tarry's own arcade will operate in Nekala, Tampere. The association's arcade will operate similarly to McKylä, with the addition of more rhythm games besides dance games.
+Tarry's own arcade is located in Nekala, Tampere. The association's arcade operates similarly to McKylä, with the addition of more rhythm games besides dance games. Come visit us on our open door days or by contacting a tenant on [our Discord](https://discord.gg/DvfRy8ebh9)!
